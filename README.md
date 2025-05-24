@@ -50,8 +50,8 @@
 
 ## Output:
 
-### Name: S.YOGESH
-### Register Number: 212224230311
+### Name: MOHAN R
+### Register Number: 212224230168
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
